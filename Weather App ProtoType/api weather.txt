@@ -1,0 +1,11 @@
+
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=b2b9c4fba799c1d65040d39afcaba3a3&units=metric
+
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=b2b9c4fba799c1d65040d39afcaba3a3
+
+
+
+{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],"base":"stations","main":{"temp":285.96,"feels_like":285.72,"temp_min":285.13,"temp_max":286.77,"pressure":1007,"humidity":93},"visibility":10000,"wind":{"speed":1.79,"deg":297,"gust":3.58},"clouds":{"all":96},"dt":1691274844,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1691209780,"sunset":1691264603},"timezone":3600,"id":2643743,"name":"London","cod":200}
